@@ -15,6 +15,6 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "nodejs-polars": "^0.6.0"
+    "nodejs-polars": "0.8.0"
   }
 }
